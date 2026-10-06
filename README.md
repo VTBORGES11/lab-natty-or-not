@@ -23,8 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # A jornada do herói
 
 ## 📒 Descrição
-A ideia é pegar um projeto ou desafio e usar o prompt "destravar" para solucionar algum código ou projeto com dicas,
-mas sem dá as respostas.
+A ideia é uma criar uma música com uma jornada de herói e com temas cyberpunk com estilo eletrônico e orquestra.
 
 ## 🤖 Tecnologias Utilizadas
  Antigravity, chatgpt e Suno
