@@ -39,7 +39,6 @@ https://www.mureka.ai/song-detail/VrEsAxZiZ7GZ6M7VFsN3KS?is_from_share=1
 ## 💭 Reflexão (Opcional)
 Muito lega essa iniciativa e mostrou que com IA´s com um pouco de criatividade dá fazer coisas impressionantes
 
-```
 
 ### Exemplos e Insigths
 
