@@ -23,7 +23,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # A jornada do herói
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia é pegar um projeto ou desafio e usar o prompt "destravar" para solucionar algum código ou projeto com dicas,
+mas sem dá as respostas.
 
 ## 🤖 Tecnologias Utilizadas
  Antigravity, chatgpt e Suno
