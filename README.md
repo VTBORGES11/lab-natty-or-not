@@ -19,7 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
+markdown
 # A jornada do herói
 
 ## 📒 Descrição
@@ -38,6 +38,7 @@ https://www.mureka.ai/song-detail/VrEsAxZiZ7GZ6M7VFsN3KS?is_from_share=1
 
 ## 💭 Reflexão (Opcional)
 Muito lega essa iniciativa e mostrou que com IA´s com um pouco de criatividade dá fazer coisas impressionantes
+
 ```
 
 ### Exemplos e Insigths
