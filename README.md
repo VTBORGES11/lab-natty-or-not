@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A jornada do herói
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ Antigravity, chatgpt e Suno
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o Antigravity para as instruções inicias mandando um prompt completo e com as dicas utilizei o chatgpt para fazer
+a música e  IA de música sono para criar os conteúdos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://www.mureka.ai/song-detail/F7Sq19CwPpLsDC4Xr7UtiH?is_from_share=1)
+https://www.mureka.ai/song-detail/VrEsAxZiZ7GZ6M7VFsN3KS?is_from_share=1
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito lega essa iniciativa e mostrou que com IA´s com um pouco de criatividade dá fazer coisas impressionantes
 ```
 
 ### Exemplos e Insigths
